@@ -2,6 +2,8 @@
 
 An Agent Skill for building software with AI without overwhelming the model's context window.
 
+An open-source project by **Sazan**.
+
 Large prompts bury important requirements in noise. This skill turns substantial software work into a compact specification and small, dependency-aware issues. Each issue carries its own acceptance criteria and verification plan, then moves through implementation, testing, review, evidence, and documentation.
 
 ## What it improves
@@ -54,6 +56,7 @@ Use it for new projects, multi-step features, migrations, and substantial refact
 - `references/project-record.md`: durable project-memory structure
 - `references/work-item.md`: issue contract and sizing rules
 - `references/github-mapping.md`: safe mapping to GitHub issues and pull requests
+- `references/product-principles.md`: Sazan's product, quality, revenue, and distribution gate
 
 ## Design influences
 
