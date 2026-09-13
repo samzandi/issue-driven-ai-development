@@ -13,6 +13,10 @@ Keep requirements visible and execution context small. Treat the approved projec
 - For substantial work, use the full loop below.
 - For an existing project, inspect its current state, documentation, tests, and version-control status before proposing new structure. Preserve the user's work and existing conventions.
 
+## Product gate
+
+For a new public skill, agent, application, or monetizable feature, read [references/product-principles.md](references/product-principles.md) before committing to implementation. Public technology products use the Sazan brand, not Zandi Service Center.
+
 ## Project loop
 
 1. **Ground the request.** State the problem, target user, desired outcome, constraints, assumptions, non-goals, and unresolved decisions. Ask only questions whose answers materially change the solution.
