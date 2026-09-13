@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issue-Driven AI Development"
+  short_description: "Build AI projects through small verified issues"
+  default_prompt: "Use $issue-driven-ai-development to plan and execute this project as small, verified work items."
