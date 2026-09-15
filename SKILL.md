@@ -7,6 +7,10 @@ description: Plan and execute substantial software or digital-product work throu
 
 Keep requirements visible and execution context small. Treat the approved project record—not chat memory—as the source of truth.
 
+## Shared execution policy
+
+Apply `sazan-efficient-operator` as the execution-efficiency layer. Minimize unnecessary token use, repeated context, narration, and interruptions. Retrieve only the context required for the active work item, continue consecutive safe steps without permission loops, and ask only for genuine blockers. Efficiency must never weaken specification quality, verification, security, durable records, or evidence.
+
 ## Scale gate
 
 - For a simple, low-risk change that is clear and independently testable, implement and verify it directly.
