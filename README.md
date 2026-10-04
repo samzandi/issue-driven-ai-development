@@ -69,3 +69,21 @@ Open an issue with a concrete failure case or workflow improvement. Changes shou
 ## License
 
 MIT
+
+
+## Project status
+
+Active pre-1.0 open-source development. The repository includes automated validation for the skill contract and community-health files. This does not imply that every external agent runtime has been validated.
+
+## Open-source maintenance
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution requirements, [SECURITY.md](SECURITY.md) for vulnerability reporting, [MAINTAINERS.md](MAINTAINERS.md) for maintainer responsibilities, and [docs/OPEN_SOURCE_MAINTENANCE.md](docs/OPEN_SOURCE_MAINTENANCE.md) for the maintenance model.
+
+Run:
+
+```bash
+python tools/validate_skill.py
+python -m unittest discover -s tests -p 'test_*.py'
+```
+
+before submitting a change. The project uses the MIT license.
